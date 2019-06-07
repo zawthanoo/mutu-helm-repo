@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  spring-boot-k8s:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-06-07T14:23:58.9567411+06:30"
+    description: A Helm chart for Kubernetes
+    digest: 35d5ae6ac310117c8394263ad76b87c6ac9af141d5fa9eff882f21ac1f00dac2
+    name: spring-boot-k8s
+    urls:
+    - spring-boot-k8s-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-06-07T14:23:58.9557654+06:30"
